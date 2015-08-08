@@ -1,0 +1,31 @@
+/* CSS Document */
+
+h1{
+	width:400px;
+	margin:0 auto;	
+}
+
+.il-ilce-mahalle{
+	width:400px;
+	margin:0 auto;
+	margin-top:100px;
+}
+
+.il-ilce-mahalle label{
+	width:175px;
+	height:28px;
+	line-height:28px;
+	padding:0px 5px 0px 20px;
+	float:left;
+	margin:4px 0px;	
+}
+
+.il-ilce-mahalle select{
+	width:180px;
+	height:28px;
+	padding:2px 0 0 0;
+	line-height:28px;
+	border:1px solid #afafaf;
+	margin:4px 10px;
+	float:left;	
+}
